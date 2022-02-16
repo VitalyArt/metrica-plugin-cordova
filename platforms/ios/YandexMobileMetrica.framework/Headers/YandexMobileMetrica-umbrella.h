@@ -19,7 +19,6 @@
 #endif
 
 #import "YandexMobileMetrica.h"
-#import "YandexMobileMetrica+Extended.h"
 
 FOUNDATION_EXPORT double YandexMobileMetricaVersionNumber;
 FOUNDATION_EXPORT const unsigned char YandexMobileMetricaVersionString[];
